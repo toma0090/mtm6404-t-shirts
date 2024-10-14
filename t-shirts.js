@@ -114,5 +114,5 @@ const TshirtStore = () => {
   );
 };
 
-// Render the React component
+
 ReactDOM.render(<TshirtStore />, document.getElementById('root'));
